@@ -1,0 +1,17 @@
+{
+    "name": "NodeJSHelloWorld",
+    "version": "0.0.1",
+    "description": "A sample node app",
+    "engines": {
+        "node": "0.8.x"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "async": "0.2.x",
+        "express": "3.3.x",
+        "mysql": "*",
+        "hogan-express": "*"
+    }
+}
